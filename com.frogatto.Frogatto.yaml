@@ -48,8 +48,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/frogatto/frogatto.git
-        tag: 1.3.1
-        commit: 0932a82e989869366c481589d079249015083131
+        tag: 4.0.0
+        commit: e824378880902fdeb595d2ce29722769784bd8a7
       - type: patch
         path: makefile.patch
       - type: patch
