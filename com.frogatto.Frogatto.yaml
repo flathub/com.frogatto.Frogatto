@@ -1,6 +1,6 @@
 app-id: com.frogatto.Frogatto
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 command: frogatto
 finish-args:
@@ -14,7 +14,7 @@ modules:
   - shared-modules/glew/glew.json
   - shared-modules/glu/glu-9.json
 
-  - shared-modules/SDL/SDL-1.2.15.json
+  - shared-modules/SDL/sdl12-compat.json
   - shared-modules/SDL/SDL_image-1.2.12.json
   - shared-modules/SDL/SDL_mixer-1.2.12.json
   - shared-modules/SDL/SDL_ttf-2.0.11.json
