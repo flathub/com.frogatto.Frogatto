@@ -49,9 +49,5 @@
   <launchable type="desktop-id">com.frogatto.Frogatto.desktop</launchable>
   <keywords>
     <keyword>platformer</keyword>
-    <keyword>actiongame</keyword>
-    <keyword>puzzle</keyword>
-    <keyword>adventure</keyword>
-    <keyword>arcade</keyword>
   </keywords>
 </component>
