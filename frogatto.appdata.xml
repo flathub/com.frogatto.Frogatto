@@ -47,4 +47,11 @@
     <release version="1.0" date="2010-07-12" />
   </releases>
   <launchable type="desktop-id">com.frogatto.Frogatto.desktop</launchable>
+  <keywords>
+    <keyword>platformer</keyword>
+    <keyword>actiongame</keyword>
+    <keyword>puzzle</keyword>
+    <keyword>adventure</keyword>
+    <keyword>arcade</keyword>
+  </keywords>
 </component>
