@@ -37,6 +37,7 @@
     </screenshot>
   </screenshots>
   <url type="homepage">https://frogatto.com/</url>
+  <url type="vcs-browser">https://github.com/frogatto/frogatto/</url>
   <url type="bugtracker">https://github.com/frogatto/frogatto/issues</url>
   <url type="translate">https://www.transifex.com/frogatto/frogatto/</url>
   <url type="contact">https://frogatto.com/contact/</url>
