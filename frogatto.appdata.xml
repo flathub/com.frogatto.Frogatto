@@ -2,7 +2,7 @@
 <component type="desktop">
   <id>com.frogatto.Frogatto</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>Zlib AND CC-BY-3.0 AND LicenseRef-proprietary</project_license>
+  <project_license>Zlib AND CC-BY-3.0 AND CC-BY-NC-SA-4.0</project_license>
   <name>Frogatto &amp; Friends</name>
   <developer_name>Frogatto Dev Team</developer_name>
   <summary>An old-school 2D platform game</summary>
